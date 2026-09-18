@@ -407,16 +407,18 @@ Human-Computer Interaction
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aliadiill&show_icons=true&hide_border=true&cache_seconds=1800"
+    src="./profile/stats.svg"
     alt="Ali Adil's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadiill&layout=compact&hide_border=true&cache_seconds=1800"
+    src="./profile/top-langs.svg"
     alt="Ali Adil's Most Used Languages"
   />
 </p>
