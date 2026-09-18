@@ -6,17 +6,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-adill">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Adil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/aliadiill">
-    <img src="https://img.shields.io/badge/GitHub-aliadiill-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://aliadil.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/aliadiill/">
-    <img src="https://img.shields.io/badge/Instagram-aliadiill-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://aliadil.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <code>🎓 Computer Science Graduate • ☁️ AWS SAA + CCP Certified • ⚙️ Cloud & DevOps Enthusiast • 💻 Software Developer</code>
 </p>
 
 ---
@@ -51,30 +57,34 @@ Architecture → Infrastructure → Development → CI/CD → Testing → Deploy
 
 <p align="center">
   <a href="https://www.credly.com/badges/44cae3b5-d5f7-469a-a7ce-22074c383e9f/linked_in_profile">
-    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
-         width="160"
-         alt="AWS Certified Solutions Architect Associate"/>
+    <img
+      src="./assets/aws-solutions-architect-associate.png"
+      width="170"
+      alt="AWS Certified Solutions Architect Associate"
+    />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.credly.com/badges/37b13393-eaea-43bc-8718-2f85b3e1b867/linked_in_profile">
-    <img src="https://images.credly.com/size/220x220/images/684f50e3-7b0a-4b70-9dd5-51de6540d29e/image.png"
-         width="160"
-         alt="AWS Certified Cloud Practitioner"/>
+    <img
+      src="./assets/aws-cloud-practitioner.png"
+      width="170"
+      alt="AWS Certified Cloud Practitioner"
+    />
   </a>
 </p>
 
 <p align="center">
   <b>AWS Certified Solutions Architect – Associate</b>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <b>AWS Certified Cloud Practitioner</b>
 </p>
 
 <p align="center">
-  Solutions Architect – Associate: September 2026 – September 2029
-  <br/>
-  Cloud Practitioner: June 2026 – June 2029
+  September 2026 – September 2029
+  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  June 2026 – June 2029
 </p>
 
 ---
@@ -399,14 +409,14 @@ Human-Computer Interaction
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aliadiill&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=aliadiill&show_icons=true&hide_border=true&cache_seconds=1800"
     alt="Ali Adil's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadiill&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliadiill&layout=compact&hide_border=true&cache_seconds=1800"
     alt="Ali Adil's Most Used Languages"
   />
 </p>
@@ -416,27 +426,25 @@ Human-Computer Interaction
 # 🤝 Connect With Me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/ali-adill">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Adil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://github.com/aliadiill">
-    <img src="https://img.shields.io/badge/GitHub-aliadiill-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <a href="https://www.instagram.com/aliadiill/">
-    <img src="https://img.shields.io/badge/Instagram-aliadiill-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <a href="https://aliadil.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-aliadil.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
 
   <a href="mailto:ali.m7md.adil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
 </p>
 
 ---
