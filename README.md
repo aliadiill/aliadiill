@@ -405,7 +405,6 @@ Human-Computer Interaction
 
 ---
 
-# 📊 GitHub Stats
 
 # 📊 GitHub Stats
 
