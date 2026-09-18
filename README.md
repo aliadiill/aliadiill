@@ -14,8 +14,8 @@
   <a href="https://www.instagram.com/aliadiill/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://aliadil.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  <a href="https://ali-adil-aws-portfolio.ali-m7md-adil.chatgpt.site/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -449,8 +449,8 @@ Human-Computer Interaction
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-  <a href="https://aliadil.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  <a href="https://ali-adil-aws-portfolio.ali-m7md-adil.chatgpt.site/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 
   <a href="mailto:ali.m7md.adil@gmail.com">
