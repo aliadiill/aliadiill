@@ -55,39 +55,48 @@ Architecture → Infrastructure → Development → CI/CD → Testing → Deploy
 
 # 🏆 AWS Certifications
 
-<p align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/44cae3b5-d5f7-469a-a7ce-22074c383e9f/linked_in_profile">
+        <img
+          src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+          width="170"
+          alt="AWS Certified Solutions Architect – Associate"
+        />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/37b13393-eaea-43bc-8718-2f85b3e1b867/linked_in_profile">
+        <img
+          src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+          width="170"
+          alt="AWS Certified Cloud Practitioner"
+        />
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://www.credly.com/badges/44cae3b5-d5f7-469a-a7ce-22074c383e9f/linked_in_profile">
-    <img
-      src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
-      width="170"
-      alt="AWS Certified Solutions Architect – Associate"
-    />
-  </a>
+  <tr>
+    <td align="center">
+      <b>AWS Certified Solutions Architect – Associate</b>
+    </td>
+    <td align="center">
+      <b>AWS Certified Cloud Practitioner</b>
+    </td>
+  </tr>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <tr>
+    <td align="center">
+      September 2026 – September 2029
+    </td>
+    <td align="center">
+      June 2026 – June 2029
+    </td>
+  </tr>
+</table>
 
-  <a href="https://www.credly.com/badges/37b13393-eaea-43bc-8718-2f85b3e1b867/linked_in_profile">
-    <img
-      src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
-      width="170"
-      alt="AWS Certified Cloud Practitioner"
-    />
-  </a>
-
-</p>
-
-<p align="center">
-  <b>AWS Certified Solutions Architect – Associate</b>
-  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <b>AWS Certified Cloud Practitioner</b>
-</p>
-
-<p align="center">
-  September 2026 – September 2029
-  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  June 2026 – June 2029
-</p>
+---
 ---
 
 # 🛠️ Languages & Technologies
